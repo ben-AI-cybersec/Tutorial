@@ -1,5 +1,5 @@
 # Tutorial
 Git Tutorial
-following along.
+following along. 
 
 handle this conflict! :P

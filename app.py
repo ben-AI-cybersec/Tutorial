@@ -2,6 +2,8 @@ import streamlit as st
 from itertools import permutations
 from typing import List, Tuple
 
+print("Hello World")
+
 def can_fit(container: Tuple[int, int], truck: Tuple[int, int]) -> bool:
     return container[0] <= truck[0] and container[1] <= truck[1]
 
